@@ -1,1 +1,1 @@
-# Cloud Computing: Aprendizaje Federado
+# Cloud Computing - Actividad: Aprendizaje Federado
