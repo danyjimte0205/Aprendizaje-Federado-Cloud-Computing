@@ -29,5 +29,5 @@ train, test = mnist.load_data()
 * **global_model.ipynb:** Realiza la agregación de modelos utilizando FedAvg, FedMedian y FedTrimmedMean.
 * **lmodel_0.keras, ..., lmodel_4.keras:** Modelos locales entrenados.
 
-## Instrucciones para de uso
+## Instrucciones de uso
 
