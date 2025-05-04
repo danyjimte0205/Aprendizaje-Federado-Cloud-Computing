@@ -24,6 +24,8 @@ train, test = mnist.load_data()
 
 ## Estructura del Proyecto
 
+## Instrucciones para el Uso
+
 * **TheModel.py:** Define el modelo de red neuronal usado por los clientes y el modelo global.
 * **local_training_n.ipynb:** Plantilla de entrenamiento de los modelos localmente, cada uno con una partición diferente del conjunto de datos.
 * **global_model.ipynb:** Realiza la agregación de modelos utilizando FedAvg, FedMedian y FedTrimmedMean.
