@@ -15,7 +15,7 @@ Este repositorio contiene el trabajo realizado para la materia de Computación e
 
 - **Fuente**: Dataset MNIST a través de TensorFlow
 
-Para descargar y usar los datos, ejecuta el siguiente código en tu entorno:
+Para descargar y usar los datos, ejecuta el siguiente código:
 
 ```python
 from tensorflow.keras.datasets import mnist
